@@ -1,6 +1,6 @@
 # IronPath: Your Daily Gym Companion
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/rakesh-vr/BigMuscle)
 
 > A sleek and motivating gym application that provides a 7-day workout plan, tracks user progress, and displays performance on a personalized dashboard.
 
@@ -76,7 +76,7 @@ This command will build the application and deploy it using the Wrangler CLI.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/rakesh-vr/BigMuscle)
 
 ## Project Structure
 
